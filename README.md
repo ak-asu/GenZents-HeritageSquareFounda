@@ -38,10 +38,6 @@ Archyx AI's answer is a zero-training interface: if you can use a chat app, you 
 
 ---
 
-> **Recommended assets to add:** Screenshots of the chat interface, the folder structure viewer, and the admin dashboard would strengthen this README significantly.
-
----
-
 ## Highlights
 
 - **LangChain ReAct agent with 13 tools (10 Google Drive API operations)** — dynamically decides whether to retrieve documents via RAG, traverse folders, create/move/rename files, or suggest reorganization plans, all within a single conversational turn.
